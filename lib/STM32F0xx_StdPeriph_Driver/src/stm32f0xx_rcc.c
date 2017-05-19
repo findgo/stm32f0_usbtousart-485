@@ -2,8 +2,8 @@
   ******************************************************************************
   * @file    stm32f0xx_rcc.c
   * @author  MCD Application Team
-  * @version V1.4.0
-  * @date    24-July-2014
+  * @version V1.5.0
+  * @date    05-December-2014
   * @brief   This file provides firmware functions to manage the following 
   *          functionalities of the Reset and clock control (RCC) peripheral:
   *           + Internal/external clocks, PLL, CSS and MCO configuration

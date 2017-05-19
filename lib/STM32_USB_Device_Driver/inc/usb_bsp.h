@@ -41,6 +41,7 @@ void USB_BSP_Init (USB_CORE_HANDLE *pdev);
 void USB_BSP_EnableInterrupt (USB_CORE_HANDLE *pdev);
 void USB_BSP_uDelay (const uint32_t usec);
 void USB_BSP_mDelay (const uint32_t msec);
+void USB_BSP_DevConnect(USB_CORE_HANDLE *pdev);
 
 #endif /* __USB_BSP__H__ */
 
