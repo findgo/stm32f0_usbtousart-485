@@ -912,7 +912,7 @@
           <targetInfo name="Target 1"/>
         </targetInfos>
       </file>
-      <file attr="config" category="sourceC" name="Device\Source\system_stm32f0xx.c" version="1.5.0">
+      <file attr="config" category="sourceC" name="Device\Source\system_stm32f0xx.c" version="2.2.3">
         <instance index="0">RTE\Device\STM32F072C8\system_stm32f0xx.c</instance>
         <component Cclass="Device" Cgroup="Startup" Cvendor="Keil" Cversion="2.2.3" condition="STM32F072xB CMSIS"/>
         <package name="STM32F0xx_DFP" schemaVersion="1.2" url="http://www.keil.com/pack/" vendor="Keil" version="1.5.0"/>

@@ -26,7 +26,7 @@ int main(int argc, char* argv[])
   // at high speed.
 	uint32_t elapseTime;
 
-  
+    SystemCoreClockUpdate();
 	USBD_Init(&USB_Device_dev,
 	        &USR_desc,
 	        &USBD_CDC_cb,
